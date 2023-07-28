@@ -1,6 +1,8 @@
 [![](https://visitcount.itsvg.in/api?id=ScoobyMat&icon=0&color=12)](https://visitcount.itsvg.in)
 # 💫 About Me:
-<h3 align="center">Computer science student at Bydgoszcz University of Science and Technology</h3><br><br>
+<hr>
+<h3 align="center">Computer science student at Bydgoszcz University of Science and Technology</h3>  
+<hr>
 - 🌱 I’m currently learning   <br><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <br>
 
 ## 🌐 Socials:
