@@ -1,22 +1,61 @@
-[![](https://visitcount.itsvg.in/api?id=ScoobyMat&icon=0&color=12)](https://visitcount.itsvg.in)
-# 💫 About Me:
-<hr>
-<h3 align="center">Computer science student at Bydgoszcz University of Science and Technology</h3>  
-<hr>
-- 🌱 I’m currently learning <br>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/> </a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/> </a> <br>
+![Mateusz – banner](./banner.svg) 
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mati.skubiszak) 
+I'm a graduate of **Applied Computer Science** at Bydgoszcz University of Science and Technology.  
+Specialization: **Business Application Development**.  
+Currently, I'm expanding my programming skills and learning how to deploy applications.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ScoobyMat&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ScoobyMat&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusz-skubiszak)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mati.skubiszak)
+
+---
+
+## 🛠 Tech Stack
+
+**Backend**  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frontend**  
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 🌱 Currently Learning
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### [Taskly](https://github.com/ScoobyMat/Taskly)
+**Description:** A task management system with a .NET API and Angular 20 frontend.  
+**Stack:** .NET, Angular, PostgreSQL  
+**Key features:**  
+- Task CRUD operations  
+- Priorities and statuses  
+- Authentication & registration with JWT  
+
+---
+
+### [SportMeet](https://github.com/ScoobyMat/SportMeet)
+**Description:** A social platform for athletes to organize and join sports events.  
+**Stack:** .NET, Vue.js, PostgreSQL  
+**Key features:**  
+- Create and search for sports events  
+- Group chat and participant management  
+- User authentication and registration  
+
+---
+
+## 📊 GitHub Stats
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ScoobyMat&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScoobyMat&layout=compact&theme=tokyonight) |
+| --- | --- |
