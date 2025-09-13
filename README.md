@@ -33,7 +33,7 @@ Currently, I'm expanding my programming skills and learning how to deploy applic
 
 ---
 
-## 🚀 Featured Projects
+## 🧑‍💻 Study Projects
 
 ### [SportMeet](https://github.com/ScoobyMat/SportMeet)
 **Description:** A social platform for athletes to organize and join sports events.  
