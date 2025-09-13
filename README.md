@@ -35,23 +35,23 @@ Currently, I'm expanding my programming skills and learning how to deploy applic
 
 ## 🚀 Featured Projects
 
-### [Taskly](https://github.com/ScoobyMat/Taskly)
-**Description:** A task management system with a .NET API and Angular 20 frontend.  
-**Stack:** .NET, Angular, PostgreSQL  
-**Key features:**  
-- Task CRUD operations  
-- Priorities and statuses  
-- Authentication & registration with JWT  
-
----
-
 ### [SportMeet](https://github.com/ScoobyMat/SportMeet)
 **Description:** A social platform for athletes to organize and join sports events.  
 **Stack:** .NET, Vue.js, PostgreSQL  
 **Key features:**  
 - Create and search for sports events  
 - Group chat and participant management  
-- User authentication and registration  
+- User authentication and registration
+
+---
+
+### [Taskly](https://github.com/ScoobyMat/Taskly)
+**Description:** A task management system with a .NET API and Angular.  
+**Stack:** .NET, Angular, PostgreSQL  
+**Key features:**  
+- Task CRUD operations  
+- Priorities and statuses  
+- Authentication & registration with JWT  
 
 ---
 
